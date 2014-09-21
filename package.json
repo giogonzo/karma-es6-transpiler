@@ -1,0 +1,28 @@
+{
+  "name": "karma-es6-transpiler",
+  "version": "0.1.0",
+  "description": "Preprocess ES6 > ES5 using es6-transpiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Giovanni Gonzaga <giovanni@buildo.io>",
+  "license": "",
+  "dependencies": {
+    "es6-transpiler": "^0.7.17"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "es6-transpiler"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/giogonzo/karma-es6-preprocessor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/giogonzo/karma-es6-preprocessor/issues"
+  },
+  "homepage": "https://github.com/giogonzo/karma-es6-preprocessor"
+}
